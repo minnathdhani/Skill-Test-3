@@ -150,7 +150,7 @@ You may add screenshots in the following places (create `images/` folder):
 <img width="760" height="169" alt="Screenshot 2025-07-28 215706" src="https://github.com/user-attachments/assets/8b9c8a8d-803b-42b7-8937-5e190f57c317" /><br>
 
 
-<img width="834" height="146" alt="Screenshot 2025-07-28 221057" src="https://github.com/user-attachments/assets/7171504f-0039-4f83-9aaa-086b0724c07c" /><br>
+<img width="833" height="154" alt="image" src="https://github.com/user-attachments/assets/5d5ba5a4-be78-45cc-8810-6f8e6c03d8db" /><br>
 
 
 <img width="848" height="166" alt="Screenshot 2025-07-28 221435" src="https://github.com/user-attachments/assets/65f9a00b-62ba-426f-9bc7-9b9438288f97" /><br>
